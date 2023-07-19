@@ -1,0 +1,41 @@
+body{background-color: rgba(185, 255, 232, 0.966);
+color: hsl(0, 0%, 0%);
+font: caption ;
+}
+
+
+.titulo{color: hsl(320, 78%, 49%);
+    text-align: center;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 50px;
+} 
+
+.subtitulo{color: rgba(180, 5, 180, 0.959);
+    font-family: 'Fascinate Inline', cursive;
+font-family: 'Overpass Mono', monospace;
+} 
+
+img{width: 500px;
+    display: flex;
+     margin-left: 25%
+}
+
+a{text-decoration: none;}
+
+.menu{
+display: flex;
+background-color: rgba(185, 255, 232, 0.966);
+flex-direction: column;
+align-items: center;
+}
+
+
+
+
+/*
+selector {
+    propiedad : valor;
+}
+*/
+
+/*aqui iria el comentario */ 
